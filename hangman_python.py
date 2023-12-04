@@ -2,7 +2,7 @@
 # Name:        hangman
 # Purpose:     play hangman with a computer lol
 #
-# Author:      100118105
+# Author:      [School ID]
 #
 # Created:     06/12/2020
 # Copyright:   (c) 100118105 2020
